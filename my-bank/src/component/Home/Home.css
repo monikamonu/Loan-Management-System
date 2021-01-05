@@ -1,0 +1,14 @@
+.bg_image{
+    background-image: url('https://cdn.pixabay.com/photo/2018/07/24/18/30/online-banking-3559760__340.jpg');
+    background-size: cover;
+    height: 90vh;
+    color: #f5f5f5;
+    margin-top: auto;
+    padding-top: 0%;
+  }
+  .text{
+    margin-left: 20%;
+    margin-right: 20%;
+    align-items: center;
+    position: absolute;
+  }
